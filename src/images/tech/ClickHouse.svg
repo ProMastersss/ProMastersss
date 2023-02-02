@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="60" width="165">
+  <style>
+    foreignObject svg {
+    width: 30px;
+    height: 30px;
+    line-height: 40px;
+    margin-top: 2px;
+    text-align: center;
+    fill: #FFCC01;
+    }
+    .gradient-btn {
+    display: flex;
+    height: 57px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 50px;
+    float: left;
+    color: #fff;
+    box-shadow: 5px 5px 2px -2px #a5a5a5;
+    text-transform: capitalize;
+    font-size: 20px;
+    }
+    .text {
+    margin-top: 16px;
+    margin-left: 10px;
+    font-size: 1.1rem;
+    white-space: nowrap;
+    }
+    .svg {
+    margin-top: 10px;
+    }
+    .btn-color {
+    background: #111111;
+    color: #ffffff;
+    }
+  </style>
+  <foreignObject style="transform: scale(undefined)" height="60" width="165">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="gradient-btn btn-color">
+      <div class="svg">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <title>ClickHouse</title>
+          <path
+            d="M21.333 10H24v4h-2.667ZM16 1.335h2.667v21.33H16Zm-5.333 0h2.666v21.33h-2.666ZM0 22.665V1.335h2.667v21.33zm5.333-21.33H8v21.33H5.333Z" />
+        </svg>
+      </div>
+      <div class="text">
+        <div>ClickHouse</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

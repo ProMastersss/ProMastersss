@@ -1,8 +1,12 @@
 <h1 align="center">Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">▀▄▀▄▀▄ &nbsp;&nbsp; 𝐈`𝐦 𝐅𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 &nbsp;&nbsp; ▀▄▀▄▀▄</h3>
-<h4 align="justify"><i>Занимаюсь Frontend и Backend разработкой в сфере Web, cлежу за развитием технологий JavaScript, PHP; обозреваю для себя различные инструменты, практики, методики. Периодически люблю смотреть на YouTube новости в мире ИТ, курсы, уроки, чтобы почерпнуть для себя что-то новое или вспомнить забытое старое</i></h4>
 
-## :notebook: &nbsp; Contact me
+## 💁 &nbsp; About me
+
+<p align="justify" style="font-weight: bold;"><i>Занимаюсь Frontend и Backend разработкой в сфере Web💻, cлежу за развитием технологий JavaScript, PHP и других технологий👀; обозреваю для себя различные инструменты, практики, методики🌐. Периодически люблю смотреть на YouTube новости в мире ИТ, курсы, уроки, чтобы почерпнуть для себя что-то новое или вспомнить забытое старое🎓</i></p>
+
+## 📓 &nbsp; Contact me
+
 <p>
 <a href="mailto:promasters93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/ProMastersss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -13,6 +17,7 @@
 </p>
 
 ## 🛠 &nbsp; Technologies and tools
+
   <!-- width="120" height="44" -->
 <span align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&desc=JavaScript&textfill=ffffff&fill=111111&svgfill=F7DF1E" />
