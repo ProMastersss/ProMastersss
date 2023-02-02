@@ -1,9 +1,9 @@
-<h1 align="center">Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"><img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/hi.png" /></h1>
 <h3 align="center">▀▄▀▄▀▄ &nbsp;&nbsp; 𝐈`𝐦 𝐅𝐮𝐥𝐥 𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 &nbsp;&nbsp; ▀▄▀▄▀▄</h3>
 
 ## 💁 &nbsp; About me
 
-<p align="justify" style="font-weight: bold;"><i>Занимаюсь Frontend и Backend разработкой в сфере Web💻, cлежу за развитием технологий JavaScript, PHP и других технологий👀; обозреваю для себя различные инструменты, практики, методики🌐. Периодически люблю смотреть на YouTube новости в мире ИТ, курсы, уроки, чтобы почерпнуть для себя что-то новое или вспомнить забытое старое🎓</i></p>
+<p align="justify" style="font-weight: bold;"><i>Занимаюсь Frontend и Backend разработкой в сфере Web, 💻 cлежу за развитием технологий JavaScript, PHP и других технологий; 👀 обозреваю для себя различные инструменты, практики, методики. 🌐 Периодически люблю смотреть на YouTube новости в мире ИТ, курсы, уроки, чтобы почерпнуть для себя что-то новое или вспомнить забытое старое 🎓</i></p>
 
 ## 📓 &nbsp; Contact me
 
@@ -25,25 +25,27 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&textfill=ffffff&fill=111111&svgfill=61DAFB" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=ffffff&fill=111111&svgfill=DD0031" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=reactivex&&desc=RxJS&textfill=ffffff&fill=111111&svgfill=B7178C" />
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=nextdotjs&textfill=ffffff&fill=111111&svgfill=000000" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Next.svg" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=redux&textfill=ffffff&fill=111111&svgfill=764ABC" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=webpack&textfill=ffffff&fill=111111&svgfill=8DD6F9" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&&desc=HTML&textfill=ffffff&fill=111111&svgfill=E34F26" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&&desc=CSS&textfill=ffffff&fill=111111&svgfill=1572B6" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=sass&textfill=ffffff&fill=111111&svgfill=CC6699" />
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=less&textfill=ffffff&fill=111111&svgfill=1D365D" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Less.svg" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=graphql&desc=GraphQl&textfill=ffffff&fill=111111&svgfill=E10098" />
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=nodedotjs&textfill=ffffff&fill=111111&svgfill=339933" /> -->
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=sequelize&textfill=ffffff&fill=111111&svgfill=52B0E7" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Node.svg" />
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Sequelize.svg" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=nestjs&desc=Nest&textfill=ffffff&fill=111111&svgfill=E0234E" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=jest&textfill=ffffff&fill=111111&svgfill=C21325" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=php&desc=PHP&textfill=ffffff&fill=111111&svgfill=777BB4" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=laravel&textfill=ffffff&fill=111111&svgfill=FF2D20" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=nginx&textfill=ffffff&fill=111111&svgfill=009639" />
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/PHPUnit.svg" />
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Codeception.svg" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=nginx&desc=NGINX&textfill=ffffff&fill=111111&svgfill=009639" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&textfill=ffffff&fill=111111&svgfill=4479A1" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&desc=PostgreSql&textfill=ffffff&fill=111111&svgfill=4169E1" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&desc=MongoDB&textfill=ffffff&fill=111111&svgfill=47A248" />
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=clickhouse&textfill=ffffff&fill=111111&svgfill=FFCC01" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/ClickHouse.svg" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=ffffff&fill=111111&svgfill=2496ED" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=gitlab&desc=GitLab&textfill=ffffff&fill=111111&svgfill=FC6D26" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=github&desc=GitHub&textfill=ffffff&fill=111111&svgfill=ffffff" />
@@ -59,6 +61,7 @@
 
 <span>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=angularuniversal&desc=Angular%20Universal&textfill=ffffff&fill=111111&svgfill=00ACC1" />
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=vuedotjs&textfill=ffffff&fill=111111&svgfill=4FC08D" /> -->
-  <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=nuxtdotjs&textfill=ffffff&fill=111111&svgfill=00DC82" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Vue.svg" />
+  <!-- <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Nuxt.svg" /> -->
+  <img src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/gRPC.svg" />
 </span>
