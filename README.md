@@ -55,6 +55,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=eslint&textfill=ffffff&fill=111111&svgfill=4B32C3" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=googlechrome&desc=Google%20Chrome&textfill=ffffff&fill=111111&svgfill=4285F4" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&textfill=ffffff&fill=111111&svgfill=FCC624" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&desc=VS%20Code&textfill=ffffff&fill=111111&svgfill=007ACC" />
 </span>
 
 ## 🎓 &nbsp; In process of studying
