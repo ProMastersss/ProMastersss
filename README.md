@@ -59,8 +59,8 @@
 ## 🎓 &nbsp; In process of studying
 
 <span>
-  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=angularuniversal&desc=Angular%20Universal&textfill=ffffff&fill=111111&svgfill=00ACC1" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Vue.svg" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Nuxt.svg" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/gRPC.svg" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=angularuniversal&desc=Angular%20Universal&textfill=ffffff&fill=111111&svgfill=00ACC1" />
 </span>
