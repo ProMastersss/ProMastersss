@@ -34,7 +34,7 @@
     color: #ffffff;
     }
   </style>
-  <foreignObject style="transform: scale(undefined)" height="60" width="165">
+  <foreignObject style="transform: scale(undefined)" height="60" width="166">
     <div xmlns="http://www.w3.org/1999/xhtml" class="gradient-btn btn-color">
       <div class="svg">
         <svg width="256" height="190" viewBox="0 0 256 190" xmlns="http://www.w3.org/2000/svg"

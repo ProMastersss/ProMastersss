@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="60" width="165">
+<svg xmlns="http://www.w3.org/2000/svg" height="60" width="113">
   <style>
     foreignObject svg {
     width: 30px;
@@ -34,7 +34,7 @@
     color: #ffffff;
     }
   </style>
-  <foreignObject style="transform: scale(undefined)" height="60" width="165">
+  <foreignObject style="transform: scale(undefined)" height="60" width="113">
     <div xmlns="http://www.w3.org/1999/xhtml" class="gradient-btn btn-color">
       <div class="svg">
         <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
