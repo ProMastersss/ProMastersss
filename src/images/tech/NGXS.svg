@@ -27,11 +27,12 @@
     white-space: nowrap;
     }
     .svg {
-    margin-top: 10px;
+    margin-top: 8px;
     background-color: white;
     height: 35px;
     border-radius: 3px;
     padding: 1px;
+    transform: scale(0.8);
     }
     .btn-color {
     background: #111111;
