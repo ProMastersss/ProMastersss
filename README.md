@@ -57,6 +57,7 @@
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=prettier&textfill=ffffff&fill=111111&svgfill=F7B93E" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=eslint&textfill=ffffff&fill=111111&svgfill=4B32C3" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=googlechrome&desc=Google%20Chrome&textfill=ffffff&fill=111111&svgfill=4285F4" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=postman&textfill=ffffff&fill=111111&svgfill=FF6C37" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=linux&textfill=ffffff&fill=111111&svgfill=FCC624" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&desc=VS%20Code&textfill=ffffff&fill=111111&svgfill=007ACC" />
 </p>
