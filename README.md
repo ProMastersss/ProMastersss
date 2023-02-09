@@ -17,10 +17,13 @@
 </p>
 
 ## 🛠 &nbsp; Technologies and tools
+
 <p id="tech" align="center">
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=javascript&desc=JavaScript&textfill=ffffff&fill=111111&svgfill=F7DF1E" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=typescript&desc=TypeScript&textfill=ffffff&fill=111111&svgfill=3178C6" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=react&textfill=ffffff&fill=111111&svgfill=61DAFB" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Vue.svg" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Nuxt.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=angular&textfill=ffffff&fill=111111&svgfill=DD0031" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=reactivex&desc=RxJS&textfill=ffffff&fill=111111&svgfill=B7178C" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Next.svg" />
@@ -45,6 +48,7 @@
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&desc=MongoDB%20&textfill=ffffff&fill=111111&svgfill=47A248" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/ClickHouse.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=ffffff&fill=111111&svgfill=2496ED" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/gRPC.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=gitlab&desc=GitLab&textfill=ffffff&fill=111111&svgfill=FC6D26" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=github&desc=GitHub&textfill=ffffff&fill=111111&svgfill=ffffff" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=jira&textfill=ffffff&fill=111111&svgfill=0052CC" />
@@ -59,8 +63,6 @@
 ## 🎓 &nbsp; In process of studying
 
 <span>
-  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Vue.svg" />
-  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Nuxt.svg" />
-  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/gRPC.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=angularuniversal&desc=Angular%20Universal&textfill=ffffff&fill=111111&svgfill=00ACC1" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/NGXS.svg" />
 </span>
