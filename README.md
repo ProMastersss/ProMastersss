@@ -45,6 +45,7 @@
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/PHPUnit.svg" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/Codeception.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=nginx&desc=NGINX%20&textfill=ffffff&fill=111111&svgfill=009639" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=rabbitmq&desc=RabbitMQ&textfill=ffffff&fill=111111&svgfill=FF6600" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=mysql&textfill=ffffff&fill=111111&svgfill=4479A1" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&desc=PostgreSql&textfill=ffffff&fill=111111&svgfill=4169E1" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&desc=MongoDB%20&textfill=ffffff&fill=111111&svgfill=47A248" />
@@ -62,7 +63,9 @@
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=postman&textfill=ffffff&fill=111111&svgfill=FF6C37" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=linux&textfill=ffffff&fill=111111&svgfill=FCC624" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&desc=VS%20Code&textfill=ffffff&fill=111111&svgfill=007ACC" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=phpstorm&desc=PHPStorm&textfill=ffffff&fill=111111&svgfill=ffffff" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=webstorm&desc=WebStorm&textfill=ffffff&fill=111111&svgfill=ffffff" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=datagrip&desc=DataGrip&textfill=ffffff&fill=111111&svgfill=ffffff" />
 </p>
 
 ## 🎓 &nbsp; In process of studying
