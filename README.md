@@ -50,6 +50,7 @@
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&desc=MongoDB%20&textfill=ffffff&fill=111111&svgfill=47A248" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/ClickHouse.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=docker&textfill=ffffff&fill=111111&svgfill=2496ED" />
+  <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&textfill=ffffff&fill=111111&svgfill=326CE5" />
   <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/gRPC.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=gitlab&desc=GitLab&textfill=ffffff&fill=111111&svgfill=FC6D26" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=github&desc=GitHub&textfill=ffffff&fill=111111&svgfill=ffffff" />
