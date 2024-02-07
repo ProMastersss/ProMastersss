@@ -63,7 +63,9 @@
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=postman&textfill=ffffff&fill=111111&svgfill=FF6C37" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=linux&textfill=ffffff&fill=111111&svgfill=FCC624" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&desc=VS%20Code&textfill=ffffff&fill=111111&svgfill=007ACC" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/PHPStorm.svg" />
   <img height="50" src="https://readme-components.vercel.app/api?component=logo&logo=webstorm&desc=WebStorm&textfill=ffffff&fill=111111&svgfill=ffffff" />
+  <img height="50" src="https://github.com/ProMastersss/ProMastersss/blob/main/src/images/tech/DataGrip.svg" />
 </p>
 
 ## 🎓 &nbsp; In process of studying
